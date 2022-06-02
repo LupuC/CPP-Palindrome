@@ -2,7 +2,7 @@
  CPP Palindrome project for Univeristy
 
 How does it work?
-Is looping trough a while loop, until the number given is backwards.
+Is looping trough a while loop, until the number given is backwards, then checks if it is equal to given nr.
 
 Example:
 
