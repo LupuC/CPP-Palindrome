@@ -5,6 +5,8 @@ How does it work?
 Is looping trough a while loop, until the number given is backwards.
 
 Example:
+
+```cpp
 given nr = 123
 
 while given nr is not equal to 0, run the loop:
@@ -22,3 +24,4 @@ while given nr is not equal to 0, run the loop:
     1/10 => 0
 
 check if given number equals to reversed number
+```
