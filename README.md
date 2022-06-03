@@ -20,7 +20,7 @@ while given nr is not equal to 0, run the loop:
     12/10 => 1
 (3)
     remaining nr = 1 % 10 => 1
-    reversed nr = 33 * 10 + 1 => 321
+    reversed nr = 32 * 10 + 1 => 321
     1/10 => 0
 
 check if given number equals to reversed number
