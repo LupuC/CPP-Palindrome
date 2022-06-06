@@ -9,6 +9,11 @@ Example:
 ```cpp
 given nr = 123
 
+loop formula:
+	remaining_nr = nr % 10;
+	reversed_nr = reversed_nr * 10 + remaining_nr;
+	nr /= 10;
+
 while given nr is not equal to 0, run the loop:
 (1)
     remaining nr = 123 % 10 => 3
