@@ -8,6 +8,7 @@ Example:
 
 ```cpp
 given nr = 123
+reversed_nr = 0
 
 loop formula:
 	remaining_nr = nr % 10;
