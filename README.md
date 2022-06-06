@@ -10,12 +10,13 @@ Example:
 given nr = 123
 reversed_nr = 0
 
-loop formula:
+
+while given nr is not equal to 0, run the loop:
+(formula)
 	remaining_nr = nr % 10;
 	reversed_nr = reversed_nr * 10 + remaining_nr;
 	nr /= 10;
 
-while given nr is not equal to 0, run the loop:
 (1)
     remaining nr = 123 % 10 => 3
     reversed nr = 0 * 10 + 3 => 3
